@@ -11,4 +11,4 @@ To start a simulation, simply run
 
 Run_MPEC_new_mulple_rx_antennas_B128U16_16QAM_L10.m
 
-which starts a simulation for a massive MU-MIMO system (with 128 BS antennas and 16 users) with 16QAM using the proposed MMSE_ERP algorithm proposed in the paper.
+which starts a simulation for a massive MU-MIMO system (with 128 BS antennas and 16 users) with 16QAM using the proposed MMSE_ERP algorithm as demonstrated in Fig. 2 of our paper.
